@@ -6,7 +6,7 @@ module.exports = {
   title: 'Documentación de Linea Legal',
   tagline: 'Gestor para actividades de abogados',
   url: 'https://krmirandas.github.io/build/',
-  baseUrl: 'https://krmirandas.github.io/build',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
