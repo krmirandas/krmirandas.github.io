@@ -5,7 +5,7 @@ const plantuml = require("@akebifiky/remark-simple-plantuml");
 module.exports = {
   title: 'Documentación de Linea Legal',
   tagline: 'Gestor para actividades de abogados',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://krmirandas.github.io/build/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
